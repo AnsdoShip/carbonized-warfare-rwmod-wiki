@@ -1,4 +1,4 @@
-# carbonized-warfare-rwmod-wiki
+# Carbonized Warfare RWMod Wiki
 Official wiki of Carbonized Warfare.
 
 ## License
