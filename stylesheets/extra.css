@@ -1,4 +1,15 @@
 * {
+  font-weight: bold;
+  font-family: SimHei;
   --md-primary-fg-color:        darkred;
-  --md-accent-fg-color:         red;
+  --md-accent-fg-color:         blue;
+  --md-typeset-a-color:         indigo;
+}
+
+.md-main {
+  background-image:url('../img/metal.png');
+}
+
+.md-main__inner {
+  background-color: rgba(255,255,255,0.8);
 }
