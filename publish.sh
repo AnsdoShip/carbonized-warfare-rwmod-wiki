@@ -1,6 +1,5 @@
 #!/usr/bin/sh
 
-git checkout main
 git add .
 git commit -m "Wiki updated: $(date "+%Y-%m-%d %H:%M:%S")"
 git pull origin main
