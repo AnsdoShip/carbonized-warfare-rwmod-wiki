@@ -1,7 +1,7 @@
 * {
   --md-primary-fg-color:        darkred;
-  --md-accent-fg-color:         blue;
-  --md-typeset-a-color:         indigo;
+  --md-accent-fg-color:         indigo;
+  --md-typeset-a-color:         blue;
 }
 
 .md-main {
