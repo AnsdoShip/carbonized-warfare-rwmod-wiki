@@ -1,0 +1,32 @@
+site_name: 碳化战争
+site_url: https://carbonizedwf.tianscar.com/
+nav:
+    - 首页: index.md
+    - 关于: about.md
+theme:
+    name: material
+    logo: img/favicon.png
+    favicon: img/favicon.png
+    icon:
+      repo: fontawesome/brands/github
+    features:
+      - navigation.tabs
+      - navigation.expand
+      - navigation.indexes
+      - navigation.top
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AnsdoShip/carbonized-warfare-rwmod
+    - icon: fontawesome/brands/qq
+      link: https://jq.qq.com/?_wv=1027&k=hBJ2q7ti
+copyright: Copyright &copy; 2022 Tianscar
+repo_url: https://github.com/Tianscar/carbonized-warfare-rwmod-wiki
+repo_name: Tianscar/carbonized-warfare-rwmod-wiki
+plugins:
+  - git-revision-date-localized:
+      type: datetime
+      enable_creation_date: true
+      fallback_to_build_date: true
+extra_css:
+  - stylesheets/extra.css
