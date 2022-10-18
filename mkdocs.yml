@@ -22,7 +22,7 @@ extra:
       link: https://github.com/AnsdoShip/carbonized-warfare-rwmod
     - icon: fontawesome/brands/qq
       link: https://jq.qq.com/?_wv=1027&k=hBJ2q7ti
-copyright: Copyright &copy; 2022 Tianscar
+copyright: Copyright &copy; 2022 Tianscar<br/>若无特殊说明，本站所有原创文章均遵循 <a href='https://github.com/Tianscar/carbonized-warfare-rwmod-wiki/blob/gh-pages/LICENSE'>CC-BY</a> 协议。
 repo_url: https://github.com/Tianscar/carbonized-warfare-rwmod-wiki
 repo_name: Tianscar/carbonized-warfare-rwmod-wiki
 plugins:
