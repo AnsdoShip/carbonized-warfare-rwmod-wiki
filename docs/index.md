@@ -20,7 +20,7 @@ hide:
 [另一个更新发布处（永硕E盘）](http://tianscar.ysepan.com)
 
 ## 版权
-第一部作者保留版权，第二部为公有领域，第三部遵守 [CC-BY-NC-SA](https://github.com/AnsdoShip/carbonized-warfare-rwmod/blob/main/LICENSE) 协议。
+第一部作者保留版权，第二部为公有领域，第三部遵循 [CC-BY-NC-SA](https://github.com/AnsdoShip/carbonized-warfare-rwmod/blob/main/LICENSE) 协议。
 
 ## 支持作者
 [爱发电](https://afdian.net/a/tianscar)
